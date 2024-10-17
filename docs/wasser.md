@@ -1,10 +1,6 @@
 # Wasser
 [Hauptseite](index.md)
 
-## Inhalt
-
-{:toc}
-
 ## Einleitung
 
 Wasser ist das essenzielle Element für das Leben auf der Erde und spielt eine fundamentale Rolle für die Gesundheit und
