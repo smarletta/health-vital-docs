@@ -4,15 +4,13 @@
 
 # Einleitung
 
-**Der Tag beginnt im Kopf. Haben Sie sich schon einmal gefragt, wie Sie Ihre ersten Morgenstunden nutzen, um einen
+Der Tag beginnt im Kopf. Haben Sie sich schon einmal gefragt, wie Sie Ihre ersten Morgenstunden nutzen, um einen
 produktiven und erfüllten Tag zu gestalten? Eine gut strukturierte Morgenroutine kann den Unterschied machen. Stellen
 Sie sich vor: Sie wachen auf, fühlen sich ausgeruht und voller Energie. Ein kurzer Spaziergang in der Natur, ein paar
 Minuten Meditation oder ein gesundes Frühstück – die Möglichkeiten sind endlos. 
 
 Wie Benjamin Franklin einst sagte: 'Sobald du morgens aufstehst, beginne etwas Großartiges zu tun.' Sind Sie bereit,
-Ihre Morgenstunden zu optimieren?**
-
-Absolut! Hier ist ein Kapitelentwurf zum Thema "Struktur der eigenen Routinen", das verschiedene Aspekte abdeckt und sowohl für Anfänger als auch Fortgeschrittene geeignet ist:
+Ihre Morgenstunden zu optimieren?
 
 # Entwicklung eigener Routinen
 
