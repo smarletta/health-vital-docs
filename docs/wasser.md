@@ -2,7 +2,7 @@
 
 [Hauptseite](index.md)
 
-## Einleitung
+# Einleitung
 
 Wasser ist das essenzielle Element für das Leben auf der Erde und spielt eine fundamentale Rolle für die Gesundheit und
 das Wohlbefinden des Menschen. In Deutschland wird das Trinkwasser als eines der hochwertigsten weltweit angesehen, 
@@ -16,14 +16,14 @@ zur Sicherstellung eines sicheren und sauberen Trinkwassers nötig sind. Eine ti
 Themen ist entscheidend, um das Bewusstsein für die Bedeutung von qualitativ hochwertigem Trinkwasser zu schärfen und
 die Bevölkerung über mögliche Risiken zu informieren.
 
-## Trinkwasserqualität in Deutschland: Ein umfassender Überblick
+# Trinkwasserqualität in Deutschland: Ein umfassender Überblick
 
 Deutschland gilt als eines der Länder mit der höchsten Trinkwasserqualität weltweit. Die strengen gesetzlichen Vorgaben, 
 die in der Trinkwasserverordnung (TrinkwV) festgelegt sind, gewährleisten, dass das Wasser, das aus den Wasserhähnen 
 fließt, rein und sicher ist. Dennoch gibt es wichtige Aspekte zur Trinkwasserqualität, die näher untersucht werden
 sollten, insbesondere hinsichtlich der Grenzwerte und möglicher fehlender Messungen.
 
-## Grenzwerte für Trinkwasser
+# Grenzwerte für Trinkwasser
 
 Die Trinkwasserverordnung regelt in Deutschland die zulässigen Höchstwerte für eine Vielzahl von Stoffen, die im 
 Trinkwasser vorkommen können. Dazu zählen unter anderem:
@@ -32,7 +32,7 @@ Mikrobiologische Parameter: Der Grenzwert für die Gesamtkeimzahl (TKZ) liegt be
 pro Milliliter) für die Trinkwasserversorgung. Bei diesem Wert handelt es sich um einen Indikator für die allgemeine 
 mikrobiologische Qualität des Wassers.
 
-### Chemische Parameter 
+## Chemische Parameter 
 
 Hierzu zählen Stoffe wie 
 
@@ -44,35 +44,35 @@ Hierzu zählen Stoffe wie
 Der Wert für Nitrat ist insbesondere für Regionen von Bedeutung, in denen intensive Landwirtschaft betrieben wird, da 
 Nitrat häufig durch Dünger ins Grundwasser gelangt.
 
-### Pestizide 
+## Pestizide 
 
 Für viele häufig vorkommende Pestizide ist der Grenzwert auf 0,1 µg/l festgelegt. Zudem darf die Summe aller erfassten 
 Pestizide 0,5 µg/l nicht überschreiten.
 
-### Fehlende Werte in den Messungen
+## Fehlende Werte in den Messungen
 
 Trotz umfassender Regulierung und regelmäßiger Überprüfungen durch die Wasserwerke gibt es Bereiche, in denen wichtige 
 Werte nicht ausreichend erfasst oder berücksichtigt werden. Dazu gehören:
 
-### Mikroplastik: 
+## Mikroplastik: 
 
 Der Einfluss von Mikroplastik auf die Trinkwasserqualität ist ein relativ neues Forschungsthema. Derzeit gibt es keinen
 spezifischen Grenzwert für Mikroplastik im Trinkwasser, obwohl Studien zeigen, dass Plastikkontamination ein zunehmendes 
 Problem darstellt.
 
-### Pharmazeutische Rückstände 
+## Pharmazeutische Rückstände 
 
 Eine Vielzahl von pharmazeutischen Substanzen gelangen durch menschliche Ausscheidungen und unzureichend gereinigtes 
 Abwasser in das Trinkwasser. Obwohl einige Wasserwerke diese Stoffe untersuchen, fehlt ein einheitlicher Grenzwert, da
 die langfristigen Auswirkungen dieser Rückstände auf die Gesundheit noch nicht vollständig erforscht sind.
 
-### Antibiotikaresistenzen 
+## Antibiotikaresistenzen 
 
 Mit dem Anstieg antibiotikaresistenter Keime in der Umwelt wird auch deren Vorkommen im Trinkwasser zu einem 
 potenziellen Risiko. Bislang gibt es jedoch keine systematische Überprüfung oder Grenzwerte für resistente Bakterien im
 Trinkwasser.
 
-### Fazit
+## Fazit
 
 Die Trinkwasserqualität in Deutschland ist im Allgemeinen hoch und wird durch strenge gesetzliche Vorgaben gesichert. 
 Dennoch ist es wichtig, auch die fehlenden Werte in den Messungen zu berücksichtigen. Die Herausforderungen durch 
@@ -81,7 +81,7 @@ möglicherweise die Anpassung der gesetzlichen Rahmenbedingungen, um die Qualit�
 gewährleisten. Nur durch eine fortlaufende Überwachung, Forschung und transparenten Austausch hinsichtlich möglicher 
 Verunreinigungen kann das Vertrauen der Bevölkerung in die Wasserqualität aufrechterhalten werden.
 
-### Belastungen durch Hormone, Medikamente, Viren und Bakterien
+## Belastungen durch Hormone, Medikamente, Viren und Bakterien
 
 Die Trinkwasserqualität in Deutschland wird europaweit geschätzt und überwacht. Dennoch sind auch hierzulande 
 verschiedene Faktoren von Bedeutung, die das Wasser potenziell gefährden können. Unter diesen Faktoren sind 
@@ -89,7 +89,7 @@ insbesondere die Belastungen durch Hormone, Medikamente, Viren und Bakterien her
 Herausforderungen dar, die es zu analysieren und zu bewältigen gilt, um die Sicherheit und Reinheit des Trinkwassers 
 langfristig zu garantieren.
 
-#### 1. Belastung durch Hormone
+### Belastung durch Hormone
 
 Eine der bedeutendsten Herausforderungen für die Wasserqualität in Deutschland sind Hormone, insbesondere endokrine 
 Disruptoren. Diese Stoffe, die unter anderem aus Medikamenten und Haushaltsprodukten stammen, können in das Abwasser 
@@ -106,7 +106,7 @@ Die wissenschaftlichen Erkenntnisse über die Auswirkungen dieser Stoffe auf die
 vollständig, jedoch gibt es Hinweise darauf, dass sie Veränderungen im Hormonsystem hervorrufen und somit das Risiko 
 für Gesundheitsprobleme erhöhen können.
 
-#### 2. Medikamente
+### Medikamente
 
 Pharmazeutische Rückstände sind ein weitreichendes Problem, das direkt mit der medizinischen Nutzung von Medikamenten
 zusammenhängt. Auch wenn Kläranlagen in der Regel effektiv arbeiten, können sie viele der in Medikamenten enthaltenen 
@@ -119,7 +119,7 @@ Substanzen nicht vollständig eliminieren. Häufige Rückstände beinhalten:
     Körperfunktionen haben. Der unerwünschte Aufenthalt von Rückständen im Wasser kann auch zu umweltchemischen 
     Reaktionen führen, die das aquatische Leben gefährden.
 
-#### 3. Viren
+### Viren
 
 Eine weitere Bedrohung für die Trinkwasserqualität ist das Vorhandensein von viralen Erregern. Diese können auf
 verschiedene Weisen ins Wasser gelangen, z. B. durch:
@@ -133,7 +133,7 @@ verschiedene Weisen ins Wasser gelangen, z. B. durch:
 Die Auswirkungen verschiedener Viren auf die menschliche Gesundheit sind vielfältig, und selbst eine geringe Anzahl von
 Viren kann zu ernsthaften Krankheiten führen.
 
-#### 4. Bakterien
+### Bakterien
 
 Bakterielle Kontamination stellt eine der häufigsten Ursachen für Trinkwasserbelastungen dar. Dies geschieht oft durch:
 
@@ -144,7 +144,7 @@ Bakterielle Kontamination stellt eine der häufigsten Ursachen für Trinkwasserb
 - **Legionellen:** Diese Bakterien sind vor allem in warmem Wasser zu finden und können beim Duschen eingeatmet werden. 
     Sie sind verantwortlich für die Legionärskrankheit, eine schwere Form der Lungenentzündung.
 
-#### Fazit
+### Fazit
 
 Die Herausforderungen durch Hormone, Medikamente, Viren und Bakterien mindern die hohe Qualität des deutschen 
 Trinkwassers. Während Deutschland strenge Vorschriften für die Wasserqualität hat, ist es von entscheidender Bedeutung,
@@ -153,16 +153,16 @@ die Effizienz der Kläranlage, die Überwachung des Wassers und die Sensibilisie
 Zukünftige Forschungsanstrengungen sollten sich darauf konzentrieren, diese Belastungen zu identifizieren, ihre Risiken
 zu verstehen und effektive Lösungen zu entwickeln, um die Sicherheit und Reinheit unseres Trinkwassers zu gewährleisten.
 
-## Kennzahlen
+# Kennzahlen
 
-### Einleitung
+## Einleitung
 
 Trinkwasser ist ein lebensnotwendiges Gut. In Deutschland unterliegt es strengen Qualitätskontrollen, um sicherzustellen,
 dass es für den menschlichen Konsum geeignet ist. Dieses Kapitel befasst sich mit den verschiedenen Kennzahlen, die zur
 Beurteilung der Trinkwasserqualität herangezogen werden. Dabei werden insbesondere die gesetzlichen Grenzwerte, die
 Messgenauigkeit und die Problematik fehlender Messwerte beleuchtet.
 
-### Grenzwerte für Trinkwasser
+## Grenzwerte für Trinkwasser
 
 Die Qualität von Trinkwasser wird in Deutschland durch die Trinkwasserverordnung geregelt. Diese Verordnung legt für 
 eine Vielzahl von Parametern, wie beispielsweise Bakterien, Viren, Schwermetalle und organische Verbindungen,
@@ -175,7 +175,7 @@ Verbraucher vor gesundheitlichen Risiken.
     organische Verbindungen.
 * **Physikalische Parameter:** Hierzu zählt beispielsweise die Trübung, der pH-Wert und die Leitfähigkeit.
 
-### Messgenauigkeit und Analytik
+## Messgenauigkeit und Analytik
 
 Die Überwachung der Trinkwasserqualität erfolgt durch regelmäßige Probenahmen und anschließende Analysen in 
 akkreditierten Laboren. Die Messgenauigkeit der Analysen ist von entscheidender Bedeutung für die Beurteilung der
@@ -189,7 +189,7 @@ Einhaltung der Grenzwerte.
 * **Unsicherheiten bei der Messung:** Auch bei modernsten Messverfahren sind gewisse Unsicherheiten unvermeidlich.
     Diese Unsicherheiten müssen bei der Bewertung der Messergebnisse berücksichtigt werden.
 
-### Fehlende Messwerte und Datenlücken
+## Fehlende Messwerte und Datenlücken
 
 Trotz der umfangreichen Überwachung des Trinkwassers können in Einzelfällen Datenlücken auftreten. Gründe hierfür
 können beispielsweise technische Störungen, Ausfälle bei der Probenahme oder auch fehlende Analytikkapazitäten sein.
@@ -199,7 +199,7 @@ können beispielsweise technische Störungen, Ausfälle bei der Probenahme oder 
 * **Maßnahmen zur Vermeidung von Datenlücken:** Um Datenlücken zu vermeiden, sind eine sorgfältige Planung der
     Probenahme, eine regelmäßige Wartung der Messgeräte und eine ausreichende Ausstattung der Labore von großer Bedeutung.
 
-### Fazit
+## Fazit
 
 Die Überwachung der Trinkwasserqualität in Deutschland erfolgt auf der Grundlage von umfangreichen gesetzlichen
 Bestimmungen und modernen analytischen Methoden. Dennoch können auch in diesem Bereich Probleme auftreten, wie
@@ -207,13 +207,13 @@ beispielsweise fehlende Messwerte. Eine kontinuierliche Verbesserung der Überwa
 Kommunikation der Ergebnisse sind daher von großer Bedeutung, um die Sicherheit der Trinkwasserversorgung zu
 gewährleisten.
 
-## Umweltschutz
+# Umweltschutz
 
 Trinkwasser ist eine lebensnotwendige Ressource, die zunehmend durch menschliche Aktivitäten belastet wird. Besonders
 besorgniserregend ist das Eindringen von Hormonen, Medikamenten und anderen Verunreinigungen in das Grundwasser und 
 damit in unsere Trinkwasserversorgung.
 
-### Hormone und Medikamente im Trinkwasser
+## Hormone und Medikamente im Trinkwasser
 
 Hormone und Medikamente gelangen auf vielfältige Weise in die Umwelt. Über den Urin und Fäkalien gelangen sie in
 Kläranlagen, wo sie nicht vollständig abgebaut werden. Auch durch die Landwirtschaft, insbesondere durch den Einsatz 
@@ -228,7 +228,7 @@ von tierischen Arzneimitteln, können diese Stoffe in das Grundwasser gelangen.
     Antibiotikaresistenz bei Bakterien. Diese resistenten Bakterien können über das Abwasser in die Umwelt gelangen und
     auch das Trinkwasser kontaminieren.
 
-### Weitere Verunreinigungen des Trinkwassers
+## Weitere Verunreinigungen des Trinkwassers
 
 Neben Hormonen und Medikamenten gibt es zahlreiche weitere Stoffe, die das Trinkwasser belasten können:
 
@@ -239,7 +239,7 @@ Neben Hormonen und Medikamenten gibt es zahlreiche weitere Stoffe, die das Trink
 * **Mikroplastik:** Mikroplastikpartikel finden sich mittlerweile in nahezu allen Gewässern und können über das
     Trinkwasser in den menschlichen Körper gelangen.
 
-### Maßnahmen zum Schutz des Trinkwassers
+## Maßnahmen zum Schutz des Trinkwassers
 
 Um die Qualität unseres Trinkwassers zu schützen, sind umfassende Maßnahmen erforderlich:
 
@@ -254,13 +254,13 @@ Um die Qualität unseres Trinkwassers zu schützen, sind umfassende Maßnahmen e
 * **Bewusstseinsbildung:** Verbraucherinnen und Verbraucher sollten über die Bedeutung von sauberem Trinkwasser
     informiert werden und ihren Konsum entsprechend anpassen.
 
-### Fazit
+## Fazit
 
 Die Belastung des Trinkwassers durch Hormone, Medikamente und andere Verunreinigungen ist ein ernstzunehmendes Problem. 
 Um die Qualität unseres Trinkwassers langfristig zu sichern, sind umfassende Maßnahmen auf allen Ebenen erforderlich. 
 Nur so können wir sicherstellen, dass auch zukünftige Generationen Zugang zu sauberem Trinkwasser haben.
 
-### Statistisches und wissenschaftliche Erkenntnisse
+# Statistisches und wissenschaftliche Erkenntnisse
 
 * **Mikroplastik:**
     * Jüngste Studien zeigen eine alarmierende Zunahme von Mikroplastikpartikeln in Trinkwasser weltweit.
@@ -282,7 +282,7 @@ Nur so können wir sicherstellen, dass auch zukünftige Generationen Zugang zu s
     * Es gibt Hinweise auf einen Zusammenhang zwischen dem Vorkommen von Hormonen im Trinkwasser und einem erhöhten 
         Risiko für bestimmte Krebsarten.
 
-### Maßnahmen für private Haushalte
+# Maßnahmen für private Haushalte
 
 * **Wasserfilter:**
     * Die Verwendung von Wasserfiltern kann dazu beitragen, eine Vielzahl von Verunreinigungen, einschließlich
@@ -298,7 +298,7 @@ Nur so können wir sicherstellen, dass auch zukünftige Generationen Zugang zu s
     * Durch die Reduzierung von Plastikverpackungen kann die Freisetzung von Mikroplastik in die Umwelt verringert werden.
     * Der Kauf von Produkten in Mehrwegverpackungen oder unverpackt ist eine gute Alternative.
 
-## Regionale Unterschiede in der Trinkwasserqualität
+# Regionale Unterschiede in der Trinkwasserqualität
 
 Die Qualität des Trinkwassers in Deutschland variiert regional erheblich. Diese Unterschiede sind auf verschiedene 
 Faktoren zurückzuführen:
@@ -315,7 +315,7 @@ Faktoren zurückzuführen:
 in großen Städten. Allerdings können auch hier durch intensive Landwirtschaft oder einzelne Industrieanlagen Belastungen 
 auftreten.
 
-## Gesetzliche Rahmenbedingungen zum Schutz des Trinkwassers
+# Gesetzliche Rahmenbedingungen zum Schutz des Trinkwassers
 
 Der Schutz des Trinkwassers ist in Deutschland durch zahlreiche Gesetze und Verordnungen geregelt. Die wichtigsten sind:
 
@@ -331,7 +331,7 @@ Der Schutz des Trinkwassers ist in Deutschland durch zahlreiche Gesetze und Vero
 müssen die gesetzlichen Bestimmungen regelmäßig an neue wissenschaftliche Erkenntnisse und gesellschaftliche
 Entwicklungen angepasst werden.
 
-## Zukünftige Herausforderungen für die Trinkwasserversorgung
+# Zukünftige Herausforderungen für die Trinkwasserversorgung
 
 Die Trinkwasserversorgung steht vor zahlreichen Herausforderungen:
 

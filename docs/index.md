@@ -12,9 +12,9 @@ Die Struktur dieser Sammlung ist gegliedert nach sich mir logisch erscheinenden 
 ## Inhalt
 
 - [Wasser](wasser.md)
+- [Routinen](routinen.md)
 - Vitalstoffe
 - Mentalität
 - Ernährung
 - Quellen/Autoren/Speakers
-- Routinen
 - Rezepte
