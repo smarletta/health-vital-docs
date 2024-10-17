@@ -13,3 +13,6 @@ Die Struktur dieser Sammlung ist gegliedert nach sich mir logisch erscheinenden 
 - Vitalstoffe
 - Mentalität
 - Ernährung
+- Quellen/Autoren/Speakers
+- Routinen
+- Rezepte
